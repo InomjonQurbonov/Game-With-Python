@@ -1,0 +1,1 @@
+This is simple Love novelle maked in Pygame
